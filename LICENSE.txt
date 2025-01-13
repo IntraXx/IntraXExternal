@@ -8,7 +8,7 @@ By downloading, using, or accessing the Software, you agree to the following ter
    - You are granted a non-transferable, non-exclusive license to use the Software for personal, positive purposes only.
    - You may not sublicense, sell, rent, lease, or otherwise distribute the Software to any third party. But you can share it with eg friends if the customer share who the owner is and is clear about the LICENSE.
 
-2. **IMPORTANT!! Prohibited Actions**
+2. **Prohibited Actions**
    - Modification, reverse engineering, decompilation, or disassembly of the Software, in whole or in part, is strictly prohibited.
    - Removing or bypassing any security measures, anti-tamper protections, or digital signatures included in the Software is forbidden.
    - Redistribution of the Software, in any form, without explicit prior written consent from Davve is prohibited, you may also recive HWID ban and actions will be taken.
