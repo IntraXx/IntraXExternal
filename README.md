@@ -16,6 +16,8 @@ Consider put a star on the project if you like it.
 Also it is 100% undetected atm but in the future it could get detected so js be aware.
 I will try to be fast at updating offsets after every rblx update.
 
+WONT UPDATE GITHUB VERSION MUCH SO JOIN DC FOR ACTUAL UPDATED EXT
+
 
 
 
