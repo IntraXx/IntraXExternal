@@ -18,6 +18,8 @@ I will try to be fast at updating offsets after every rblx update.
 
 WONT UPDATE GITHUB VERSION MUCH SO JOIN DC FOR ACTUAL UPDATED EXT
 
+# ITS DOWN DUE TO Byfron 4.4.1.2  they fucked task scheduler and logs and most shit. Will be back in the future...
+
 
 
 
